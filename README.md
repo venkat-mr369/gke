@@ -154,16 +154,5 @@
 - You don't need to have any basic knowledge of Kubernetes. Course will get started from very very basics of Kubernetes and take you to very advanced levels
 - Any Cloud Platform basics is required to understand the terminology
 
-## Who is this course for?
-- Infrastructure Architects or Sysadmins or Developers who are planning to master Kubernetes from Real-World perspective on Google Cloud Platform (GCP)
-- Any beginner who is interested in learning Kubernetes with Google Cloud Platform (GCP) 
-- Any beginner who is planning their career in DevOps
-
-
-## Github Repositories used for this course
-- [Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos](https://github.com/stacksimplify/terraform-on-aws-eks)
-- [Course Presentation](https://github.com/stacksimplify/terraform-on-aws-eks/tree/main/course-presentation)
-- [Kubernetes Fundamentals](https://github.com/stacksimplify/kubernetes-fundamentals)
-- **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
 
 
